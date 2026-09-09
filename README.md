@@ -1,4 +1,6 @@
-﻿# PAWSENSE-X
+﻿[LIVE DEMO - PAWSENSE-X](https://pawsense-x-3fgrnetrmuqbsjnsdsx85b.streamlit.app/)
+
+# PAWSENSE-X
 
 ## AI Animal Welfare & Danger Intelligence
 
@@ -160,4 +162,5 @@ Future development can extend the prototype toward real-time multi-animal tracki
 Prototype / Hackathon MVP
 
 Core detection, behavior analysis, danger-zone analysis, risk scoring, explainable alerts, event timeline, and Streamlit dashboard are implemented.
+
 
