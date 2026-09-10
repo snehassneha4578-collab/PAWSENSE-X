@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 import streamlit as st
 
 st.set_page_config(
@@ -116,4 +116,10 @@ st.info(
 st.caption(
     "PAWSENSE-X | Explainable AI for Animal Welfare Monitoring"
 )
+
+
+# Vehicle image
+vehicle_path = Path(r'data/vehicle.png')
+if vehicle_path.exists():
+    st.image(str(vehicle_path), caption='Vehicle Proximity - Demo Scene', width='stretch')
 
